@@ -79,6 +79,47 @@ window#waybar.hidden {
 	background: #bd93f9;
 }
 
+#bluetooth {
+  margin-top: 6px;
+  margin-left: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #FAE3B0;
+}
+
+
+
+#disk {
+  margin-top: 6px;
+  margin-left: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+  background: #f5a97f;
+}
+
+
+#temperature {
+  margin-top: 6px;
+  margin-left: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+  background: #a6da95;
+}
+
+
+
 #pulseaudio {
 	margin-top: 6px;
 	margin-left: 8px;
@@ -172,6 +213,8 @@ window#waybar.hidden {
 	background: #96CDFB;
 }
 
+
+
 #tray {
 	margin-top: 6px;
 	margin-left: 8px;
@@ -243,5 +286,22 @@ window#waybar.hidden {
 	border-radius: 10px;
 	transition: none;
 	color: #161320;
-	background: #F2CDCD;
+	background: #a6d189;
 }
+
+
+
+#custom-weather {
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #74c7ec;
+	background: #1e1e2e;
+}
+
+
+
